@@ -1,6 +1,6 @@
 <div align="center">
-    <img width="500px" src="./logo/Light.svg#gh-light-mode-only" />
-    <img width="500px" src="./logo/Dark.svg#gh-dark-mode-only" />
+    <img width="500px" src="logo/Light.svg#gh-light-mode-only" />
+    <img width="500px" src="logo/Dark.svg#gh-dark-mode-only" />
 </div>
 
 ### Purpose
