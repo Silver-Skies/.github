@@ -1,6 +1,5 @@
 <div align="center">
-    <img width="500px" src="profile/logo/Light.svg#gh-light-mode-only" />
-    <img width="500px" src="profile/logo/Dark.svg#gh-dark-mode-only" />
+    <img width="500px" src="https://github.com/tfe-exr/.github/blob/069981a26c36026b86b98bf4a540f8ba0a0f29ce/profile/logo/Frame%20397%20(14).png" />
 </div>
 
 ### Purpose
